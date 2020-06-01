@@ -41,7 +41,7 @@ Add a new directive to point to ctftimer file as follow (change PATH/TO/HOME acc
 ```
 order += "read_file CTF"
 read_file CTF {
-        path = "*PATH/TO/HOME/.ctftimer"
+        path = "/PATH/TO/HOME/.ctftimer"
         format = "CTF Timer ~%contenth remaining"
 }
 ```
