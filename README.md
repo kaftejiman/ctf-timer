@@ -72,8 +72,8 @@ bash$ start 24
 ```
 
 The script when called with an argument (24 in this case), would create 2 files:
-  -> '.ctftimer' holds the remaining hours
-  -> '.ctftimer-temp' holds the timestamp of the finish time (current timestamp + number of hours given)
+  * '.ctftimer' holds the remaining hours
+  * '.ctftimer-temp' holds the timestamp of the finish time (current timestamp + number of hours given)
 
 The use of 2 files is actually a work around default i3status limitations, please suggest a better universal approach.
 
