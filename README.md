@@ -1,6 +1,6 @@
-# ctf-timer
+# ctf-timer [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![example](https://github.com/kaftejiman/ctf-timer/blob/master/ctftimer.png?raw=true)
-A convenient utility to display remaining time of a certain session.
+A convenient tiny utility that displays remaining time from a certain initiated CTF session (or any session that needs timing).
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
