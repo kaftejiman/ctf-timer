@@ -1,4 +1,6 @@
 # ctf-timer
+![example](https://github.com/kaftejiman/ctf-timer/blob/master/ctftimer.png?raw=true)
+A convenient utility to display remaining time of a certain session.
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
