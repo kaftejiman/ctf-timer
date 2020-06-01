@@ -61,6 +61,10 @@ Add the following job which calls ctftimer script once hourly.
 ```
 0 * * * * python3 /PATH/TO/CTFTIMER/ctfer.py
 ```
+Make sure the script is executable.
+```
+bash$ chmod +x /PATH/TO/CTFTIMER/ctfer.py
+```
 
 You are all set.
 
